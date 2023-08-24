@@ -1,0 +1,32 @@
+{
+  "name": "nosql-social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casignacio/NoSQL-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.7",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.0",
+    "express-session": "^1.17.3",
+    "mongoose": "^7.4.4",
+    "mysql2": "^3.5.2",
+    "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  }
+}
