@@ -14,7 +14,3 @@ Express <br>
 Node.js <br>
 Insomnia <br>
 MongoDB <br>
-
-## Deployed app link
-
-https://idklabs-tech-blog-4916016abaaf.herokuapp.com/
